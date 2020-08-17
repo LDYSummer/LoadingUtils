@@ -1,0 +1,3 @@
+include ':loadingutilslibrary'
+include ':app'
+rootProject.name = "LoadingUtils"
