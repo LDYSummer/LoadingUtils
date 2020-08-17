@@ -105,7 +105,7 @@ public class LoadingUtils {
      * 字体大小
      * @param textSize default 15
      */
-    public void setTextFont(int textSize){
+    public void setTextSize(int textSize){
         mTextSize = textSize;
     }
 
