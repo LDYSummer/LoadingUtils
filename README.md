@@ -17,8 +17,8 @@ allprojects {
 #### dependency
 ```javascript
 dependencies {
-	        implementation 'com.github.LDYSummer:LoadingUtils:1.0.1'
-	}
+	implementation 'com.github.LDYSummer:LoadingUtils:1.0.1'
+}
 ```
 
 ### 使用 
